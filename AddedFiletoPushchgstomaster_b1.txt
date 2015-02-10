@@ -1,0 +1,2 @@
+test - AddedFiletoPushchgstomaster_b1
+Added data to test file from  US_GitTestRepo2_b1 branch of GitTestRepo2 to push changes to remote to master directly
